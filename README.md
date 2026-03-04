@@ -128,9 +128,10 @@ Se confirmó que el control envía teclas correctamente (ejemplo visible en un c
 
 </details>
 
+<details>
+  <summary><b>------ qmk for profiles -------------</b></summary>
 
------- qmk for profiles -------------
 here will use terminal for mac to instal qmk repositories and get ready
 the plan is to have two profiles which is for Autodesk Revit y Blender
 after Ill set up one for general things like music or videos etc...
-
+</details>
