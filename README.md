@@ -127,3 +127,10 @@ Se confirmó que el control envía teclas correctamente (ejemplo visible en un c
 - Refinar ergonomía: mango más compacto, redondeos, y mejor acceso al USB.
 
 </details>
+
+
+------ qmk for profiles -------------
+here will use terminal for mac to instal qmk repositories and get ready
+the plan is to have two profiles which is for Autodesk Revit y Blender
+after Ill set up one for general things like music or videos etc...
+
